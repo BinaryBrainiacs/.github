@@ -2,7 +2,7 @@
 
 ![Techlabcamp Logo](https://techlabcamp.ai/upload/images/logo/zeYQ-dashboard-techlabcamp-logo.png)
 
-**Welcome to Techlabcamp!** Founded in 2024, Techlabcamp is more than just an online community; it's an ecosystem designed to empower tech enthusiasts of all levels. We are dedicated to bridging the gap in the tech industry through meaningful connections, collaborative learning, and skill development.
+**Welcome to Techlabcamp!** Founded in 2024, Techlabcamp is more than just a new social platform; it's an ecosystem designed to empower tech enthusiasts of all levels. We are dedicated to bridging the gap in the tech industry through meaningful connections, collaborative learning, and skill development.
 
 ## Our Mission
 
@@ -73,14 +73,16 @@ We are dedicated to:
 
 ### Get Involved & Provide Early Feedback:
 
-[MVP](https://techlabcamp.ai/)
+- [MVP](https://techlabcamp.ai/)
 
 ### Contribute to Our Open-Source Projects:
 
-- [Bitfusion](https://github.com/binarybrainiacs/bitfusion)
-- [Larazen](https://github.com/binarybrainiacs/larazen)
-- [Cognix](https://github.com/binarybrainiacs/cognix)
-- [Intellify](https://github.com/binarybrainiacs/intellify)
+| Project     | Description |
+|-------------|-------------|
+| [Bitfusion](https://github.com/binarybrainiacs/bitfusion) | Custom AI infrastructure |
+| [Larazen](https://github.com/binarybrainiacs/larazen)     | Prototyping AI with Laravel |
+| [Cognix](https://github.com/binarybrainiacs/cognix)       | Universal Windows Application |
+| [Intellify](https://github.com/binarybrainiacs/intellify) | Mobile application |
 
 **We welcome your contributions!**
 

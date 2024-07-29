@@ -4,7 +4,7 @@
 
 **More than just an online community, Techlabcamp is a ecosystem designed to empower tech enthusiasts of all levels.** Founded in 2024, we're are dedicated to bridging the gap in the tech industry through meaningful connections, collaborative learning, and skill development.
 
-**Our Mission:** Democratize access to high-quality tech education and create a more inclusive and innovative tech landscape. We believe everyone deserves the opportunity to learn, connect, and contribute to the world of technology.
+**Our Mission:** Democratize access to high-quality tech education and create a more inclusive and innovative tech landscape. We believe everyone deserves the opportunity to learn, connect, and contribute to the world of technology regardless of background.
 
 **What Makes Techlabcamp Unique?**
 
@@ -30,7 +30,7 @@ We have extensive experience in:
 * Community Management
 * Marketing
 * Legal
-* Full-time Entrepneurship
+* Full-time Entrepreneurship
 
 **Our Impact:** Shaping a More Inclusive Tech Future
 
@@ -44,7 +44,7 @@ We are dedicated to:
 
 * Refining our Business Model
 * Validating Product-Market Fit
-* Securing Further Investment
+* Securing Further Venture Capital Investment
 
 **Join Techlabcamp and be a part of something special.** Together, we can create a future where everyone has the opportunity to learn, connect, and contribute to the ever-evolving world of technology.
 
@@ -60,3 +60,5 @@ We are dedicated to:
 * [intellify](https://github.com/binarybrainiacs/intellify)
 
 **We welcome your contributions!**
+
+Please note that we frequently pivot and adjust our approach as we gain new insights and learn from our experiences.

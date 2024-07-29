@@ -2,7 +2,7 @@
 
 ![Techlabcamp Logo](https://techlabcamp.ai/upload/images/logo/zeYQ-dashboard-techlabcamp-logo.png)
 
-**Welcome to Techlabcamp!** Founded in 2024, Techlabcamp is more than just a new social platform; it's an ecosystem designed to empower tech enthusiasts of all levels. We are dedicated to bridging the gap in the tech industry through meaningful connections, collaborative learning, and skill development.
+**Welcome to Techlabcamp!** Founded in 2024, Techlabcamp is more than just a new social media platform; it's an ecosystem designed to empower tech enthusiasts of all levels. We are dedicated to bridging the gap in the tech industry through meaningful connections, collaborative learning, and skill development.
 
 ## Our Mission
 

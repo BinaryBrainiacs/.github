@@ -1,6 +1,9 @@
 # Empowering Tech Enthusiasts Through Collaborative Learning
 
-![Techlabcamp Logo](https://techlabcamp.ai/upload/images/logo/zeYQ-dashboard-techlabcamp-logo.png)
+<picture>
+  <source srcset="https://techlabcamp.ai/upload/images/logo/p4oJ-dashboard-dark-techlabcamp-logo.png" media="(prefers-color-scheme: dark)">
+  <img src="https://techlabcamp.ai/upload/images/logo/zeYQ-dashboard-techlabcamp-logo.png" alt="Techlabcamp Logo">
+</picture>
 
 **Welcome to Techlabcamp!** Founded in 2024, Techlabcamp is more than just a new social media platform; it's an ecosystem designed to empower tech enthusiasts of all levels. We are dedicated to bridging the gap in the tech industry through meaningful connections, collaborative learning, and skill development.
 

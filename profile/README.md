@@ -72,7 +72,7 @@ We are dedicated to:
 
 - Refining our business model
 - Validating product-market fit
-- Securing further venture capital investment
+- Securing further Evergreen venture capital investment for long term R&D
 
 ## Join Us!
 

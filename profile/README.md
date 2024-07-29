@@ -69,7 +69,7 @@ We are dedicated to:
 
 ## Join Us!
 
-**Be a part of something special.** Together, we can create a future where everyone has the opportunity to learn, connect, and contribute to the ever-evolving world of technology.
+**Be a part of something special** We're in it for the long haul. Together, we can create a future where everyone has the opportunity to learn, connect, and contribute to the ever-evolving world of technology.
 
 ### Get Involved & Provide Early Feedback:
 
@@ -88,7 +88,7 @@ We are dedicated to:
 
 ---
 
-*Please note that we frequently pivot and adjust our approach as we gain new insights and learn from our experiences.*
+*Please note that we frequently pivot and adjust our approach as we gain new insights and learn from our experiences in the field.*
 
 ---
 

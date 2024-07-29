@@ -4,7 +4,7 @@
 
 **More than just an online community, Techlabcamp is a ecosystem designed to empower tech enthusiasts of all levels.** Founded in 2024, we're are dedicated to bridging the gap in the tech industry through meaningful connections, collaborative learning, and skill development.
 
-**Our Mission:** Democratize access to high-quality tech education and create a more inclusive and innovative tech landscape. We believe everyone deserves the opportunity to learn, connect, and contribute to the world of technology regardless of background.
+**Our Mission:** Democratize access to high-quality tech education and create a more inclusive, divers and innovative tech landscape. We believe everyone deserves the opportunity to learn, connect, and contribute to the world of technology regardless of background.
 
 **What Makes Techlabcamp Unique?**
 
@@ -32,7 +32,7 @@ We have extensive experience in:
 * Legal
 * Full-time Entrepreneurship
 
-**Our Impact:** Shaping a More Inclusive Tech Future
+**Our Impact:** Shaping a More Inclusive & divers Tech Future
 
 * **Bridging the Digital Divide:** Empowering individuals from all backgrounds to access tech education and opportunities.
 * **Fostering Collaboration:** Connecting tech minds from diverse backgrounds to spark ideas, collaborations, and ventures.

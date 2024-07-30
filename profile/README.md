@@ -105,24 +105,36 @@ We are dedicated to:
 
 ---
 
-### Table of Contents
-
-1. [Our Mission: Democratizing Tech Education](#our-mission-democratizing-tech-education)
-2. [What Makes Techlabcamp Unique?](#what-makes-techlabcamp-unique)
-   - [Authentic Connections](#authentic-connections)
-   - [Collaborative Learning](#collaborative-learning)
-   - [Personalized Skill Development](#personalized-skill-development)
-   - [AI-Powered Enhancements](#ai-powered-enhancements)
-3. [Driving Innovation with Open-Source AI](#driving-innovation-with-open-source-ai)
-4. [Expertise Built on Passion and Experience](#expertise-built-on-passion-and-experience)
-5. [Our Impact: Shaping a More Inclusive & Diverse Tech Future](#our-impact-shaping-a-more-inclusive--diverse-tech-future)
-   - [Bridging the Digital Divide](#bridging-the-digital-divide)
-   - [Fostering Collaboration](#fostering-collaboration)
-   - [Enriching the Tech Ecosystem](#enriching-the-tech-ecosystem)
-6. [Our Journey: Building a Sustainable Future](#our-journey-building-a-sustainable-future)
-7. [Join Us!](#join-us)
-   - [Get Involved & Provide Early Feedback](#get-involved--provide-early-feedback)
-   - [Contribute to Our Open-Source Projects](#contribute-to-our-open-source-projects)
+<p align="center"> 
+  <a href="https://www.github.com/kubed-arch" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  <a href="http://www.instagram.com/unicorn_whispering" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  <a href="https://www.linkedin.com/in/dimske" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  <a href="https://www.threads.net/@unicorn_whispering" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> 
+    </picture> 
+  </a>
+</p>
 
 ---
 

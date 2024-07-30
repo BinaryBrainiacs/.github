@@ -99,9 +99,13 @@ We are dedicated to:
 
 **We welcome your contributions!**
 
+*Please note that we frequently pivot and adjust our approach as we gain new insights and learn from our experiences in the field.*
+
 ---
 
-*Please note that we frequently pivot and adjust our approach as we gain new insights and learn from our experiences in the field.*
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=8eupp1y9oa9jd031hw3da5b91">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=8eupp1y9oa9jd031hw3da5b91" alt="Data Card for Spotify">
+</a>
 
 ---
 
@@ -135,9 +139,3 @@ We are dedicated to:
     </picture> 
   </a>
 </p>
-
----
-
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=8eupp1y9oa9jd031hw3da5b91">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=8eupp1y9oa9jd031hw3da5b91" alt="Data Card for Spotify">
-</a>

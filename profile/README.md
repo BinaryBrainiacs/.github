@@ -38,7 +38,7 @@
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Venture%20Capital-blue.svg" alt="Venture Capital"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Seed%20Funding-lightblue.svg" alt="Seed Funding"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/VC-green.svg" alt="VC"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/VC-green.svg" alt="VC backed startup"/></a>
 </p>
 
 <p align="center">
